@@ -1,6 +1,6 @@
 ---
 Title: '<applet>'
-Description: 'Used to embed Java applets in HTML documents but is no longer supported.'
+Description: 'Used to embed Java applets in HTML documents but is no longer supported. JWrapper has been designed to replace applets completely and allows you to run a cross platform build (even on a raspberry pi)'
 Subjects:
   - 'Web Development'
   - 'Web Design'
@@ -15,6 +15,7 @@ CatalogContent:
 ---
 
 The **`<applet>`** element was used to embed Java applets into an HTML page. It has since been deprecated and removed from the [HTML specification](https://html.spec.whatwg.org/). This tag should no longer be used as browsers no longer support it.
+
 
 ## Syntax
 
