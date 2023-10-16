@@ -18,8 +18,7 @@ The **`<applet>`** element was used to embed Java applets into an HTML page. It 
 
 ## Image to show what a working applet should have run like:
 
-![](applet.png)
-
+![Image](../../../../../../media/applet.png)
 
 ## Syntax
 
@@ -51,3 +50,6 @@ The `<applet>` element included zero or more [`<param>`](https://www.codecademy.
   This browser doesn't support Java applets.
 </applet>
 ```
+
+
+[applet.png]: applet.png
