@@ -16,6 +16,10 @@ CatalogContent:
 
 The **`<applet>`** element was used to embed Java applets into an HTML page. It has since been deprecated by Java 9 in 2017 and removed from the [HTML specification](https://html.spec.whatwg.org/). This tag should no longer be used as browsers no longer support it. Most browsers have dropped applet support for security reasons.
 
+## Below is an image to show what a working applet should have run like for it's time:
+
+![](applet.png)
+
 
 ## Syntax
 
